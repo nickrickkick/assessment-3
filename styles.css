@@ -62,3 +62,7 @@ img {
     width: 120px;
     background-color: slategray;
 }
+.yellow-it {
+	background-color: yellow;
+	font-size: 20px;
+}
